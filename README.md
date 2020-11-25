@@ -16,7 +16,9 @@ Simply put, the windows taskbar tool (when executed) will appear at the bottom r
 2. Once entered, A file saver will appear.  
 3. Save the file to where ever you would like, and we are done.
 
-Check the file and all of the versions will be written to that designated location.  
+Check the file and all of the versions will be written to that designated location.   
+
+
 Below is the Code and how it functions:  
 <b>APICaller:</b> utilizes the GitHub API to make called to a GitHub repo   
 <b>App:</b> Windows Taskbar executable  
